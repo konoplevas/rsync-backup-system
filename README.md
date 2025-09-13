@@ -11,7 +11,9 @@
   <img width="808" height="589" alt="Скрипт задание 2" src="https://github.com/user-attachments/assets/b8880df9-01de-497e-9eaa-d651953dd4c3" />
   
 - **Планировщик**: cron - ежедневное выполнение в 2:30
+- 
   <img width="575" height="463" alt="настройка Cron задание 2" src="https://github.com/user-attachments/assets/032a6f5e-9c66-43df-ad96-bb7f7eaa4dba" />
+  
 <img width="827" height="64" alt="Поиск скрытых файлов задание 2" src="https://github.com/user-attachments/assets/59a82ac6-dbc3-4218-a1d1-414010278a8b" />
 
 - **Логирование**: запись в файл `~/backup.log` с timestamp
