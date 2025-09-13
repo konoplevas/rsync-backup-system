@@ -1,0 +1,5 @@
+# Crontab configuration for RSync backup
+30 2 * * * /home/konoplevas/rsync-backup-system/scripts/backup_home.sh
+
+# For testing (every 5 minutes)
+# */5 * * * * /home/konoplevas/rsync-backup-system/scripts/backup_home.sh

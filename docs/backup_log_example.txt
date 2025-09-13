@@ -1,0 +1,2 @@
+[2025-09-13 13:04:06] Starting backup of /home/konoplevas to /tmp/backup
+[2025-09-13 13:04:06] Backup completed successfully
